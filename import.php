@@ -504,6 +504,7 @@ $savedData = getSavedClimateData();
 
                     <!-- Submit Button -->
                     <button type="submit" name="submit" class="btn btn-primary">Search & Save Data</button>
+                    <a href="group_data.php" class="btn btn-info ms-2">View Grouped Data</a>
                 </form>
             </div>
         </div>
